@@ -18,7 +18,8 @@
 		}
 	],
 	"require" : {
-		"yiisoft/yii2" : "*"
+		"yiisoft/yii2" : "*",
+        "bower-asset/jcrop": "@stable"
 	},
 	"autoload" : {
 		"psr-4" : {
